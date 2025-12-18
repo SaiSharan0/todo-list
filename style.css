@@ -1,0 +1,11 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial;
+}
+
+/* Dark Mode */
+.dark-theme {
+    background-color: #222;
+    color: white;
+}
